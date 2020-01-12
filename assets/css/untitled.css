@@ -1,0 +1,43 @@
+b, strong {
+  font-weight: bolder;
+}
+
+.content-section1 {
+  /*padding-top: 100px;*/
+  padding-bottom: 10px;
+}
+
+.content-section {
+  padding-top: 100px;
+  /*padding-bottom: 100px;*/
+}
+
+.masthead .intro-body .intro-text {
+  color: black;
+}
+
+.row {
+  margin-top: 0;
+}
+
+#contact {
+  height: 50%;
+}
+
+#letsplay {
+}
+
+#subheading {
+  font-family: inherit;
+}
+
+.col-lg-8.mx-auto {
+  /*border: none;*/
+}
+
+.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529;
+}
+
